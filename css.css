@@ -1,0 +1,30 @@
+.jumbotron-fluid{
+    background: #F9A11B;
+    margin:0;
+    height: 600px;
+    padding:150px 50px;
+}
+.jumbotron-fluid img{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.about{
+    background-color: #34495e;
+    color:#bbb;
+}
+.portfolio{
+    background: #F9A11B;
+}
+.messenge{
+    background-color: #34495e;
+    color:#bbb;
+}
+section{
+    min-height: 600px;
+    margin:0;
+}
+section h2{
+     padding-top:30px;
+}
+
